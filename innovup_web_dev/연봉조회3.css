@@ -1,0 +1,20 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 90px;
+}
+
+.u-section-1 .u-search-1 {
+  height: auto;
+  width: 332px;
+  min-height: 42px;
+  margin: 24px auto 24px 40px;
+}
+
+.u-section-1 .u-search-input-1 {
+  letter-spacing: 0px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-search-1 {
+    margin-left: 8px;
+  }
+}
